@@ -14,10 +14,7 @@ GitHubDemo 用来练习教学
 
 ```
 
-
-
-
-![](https://raw.githubusercontent.com/wvqusrtg/githubDemo/master/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6/ENIQ83BD%60QXN%25(FLQAKP_RE.jpg)
+![资源文件](https://raw.githubusercontent.com/wvqusrtg/githubDemo/master/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6/ENIQ83BD%60QXN%25(FLQAKP_RE.jpg)
 
 ####（四级标题）
 
